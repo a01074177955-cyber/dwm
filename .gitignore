@@ -1,0 +1,15 @@
+# PyInstaller 빌드 결과물
+build/
+dist/
+*.spec
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 에셋 이미지 (용량 크면 별도 관리)
+# assets/*.png  ← 이미지 올리고 싶으면 이 줄 주석 처리
+
+# IDE
+.vscode/
+.idea/
